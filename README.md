@@ -11,11 +11,12 @@ Além disso, já atuei com suporte a usuários, análise de incidentes em produ�
 - 🌱 Estudante de automação (Cypress) e Inteligência Artificial
 - 😄 Pronouns: ela/dela
 
- ## Ferramentas, Frameworks e Bibliotecas
+
+### Contato
+  <a href = "mailto:danitranchezzi@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+  <a href = "https://www.linkedin.com/in/daniela-romeu-tranchezzi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
+  </a>
 
 ![Dani Tranchezzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=danitranchezzi&show_icons=true&theme=transparent&title_color=b825ce&icon_color=1ad9ca&text_color=34b816)
 
 
-  <a href = "https://www.linkedin.com/in/daniela-romeu-tranchezzi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-     <a href = "mailto:danitranchezzi@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-  </a>
